@@ -1,0 +1,27 @@
+{
+  "name": "cinere",
+  "version": "1.0.0",
+  "description": "Cinema Review & Database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yayudi/Cinere.git"
+  },
+  "keywords": [
+    "Cinema",
+    "Movie",
+    "Film"
+  ],
+  "author": "Yayudi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yayudi/Cinere/issues"
+  },
+  "homepage": "https://github.com/yayudi/Cinere#readme",
+  "devDependencies": {
+    "webpack": "^5.90.3"
+  }
+}
